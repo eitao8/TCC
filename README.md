@@ -24,7 +24,7 @@ Desenvolver um sistema de controle PID para um motor DC utilizando o Arduino e c
 
 ### 1. Configurar e Rodar no Arduino
 - Conecte o Arduino Nano com o sensor no motor DC.
-- Faça upload de `coleta_motor.ino` ou `pid_motor.ino` (dependendo se deseja apenas medir ou controlar com PID).
+- Faça upload de `Arduino_Sem_PID.ino` ou `Arduino_Com_PID.ino` (dependendo se deseja apenas medir ou controlar com PID).
 - A comunicação usa baud rate de 9600.
 
 ### 2. Salvar Dados com Python

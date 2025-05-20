@@ -1,6 +1,6 @@
 # Projeto de Controle PID de Motor DC com Arduino e Simulink
 
-Este repositório contém o projeto completo de modelagem, controle e análise de um motor de corrente contínua (DC) utilizando o controlador PID, com implementação no Arduino e simulações no Simulink/MATLAB.
+Este repositório contém o projeto completo de modelagem, controle e análise de um motor de corrente contínua (CC) utilizando o controlador PID, com implementação no Arduino e simulações no Simulink/MATLAB.
 
 ## 📌 Objetivo
 

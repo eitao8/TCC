@@ -1,4 +1,4 @@
-# Projeto de Controle PID de Motor DC com Arduino e Simulink
+# Projeto de Controle PID de Motor CC com Arduino e Simulink
 
 Este repositório contém o projeto completo de modelagem, controle e análise de um motor de corrente contínua (CC) utilizando o controlador PID, com implementação no Arduino e simulações no Simulink/MATLAB.
 
@@ -28,7 +28,7 @@ Desenvolver um sistema de controle PID para um motor DC utilizando o Arduino e c
 - A comunicação usa baud rate de 9600.
 
 ### 2. Salvar Dados com Python
-- Execute o script `salvar_dados.py` após iniciar o Arduino.
+- Execute o script `Salvar_Dados.py` após iniciar o Arduino.
 - Os dados serão salvos em um arquivo `.txt` no formato `Tempo(s) RPM`.
 
 ### 3. Análise no MATLAB

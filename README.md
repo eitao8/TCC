@@ -54,7 +54,7 @@ Desenvolver um sistema de controle PID para um motor DC utilizando o Arduino e c
 ## 📝 Autor
 
 **Eiti Parruca Adama**  
-Graduado em Engenharia da Computação  
+Engenharia da Computação  
 Universidade Tecnológica Federal do Paraná (UTFPR)  
 Email: *eitiadama@gmail.com*
 

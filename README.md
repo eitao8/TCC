@@ -32,7 +32,7 @@ Desenvolver um sistema de controle PID para um motor DC utilizando o Arduino e c
 - Os dados serão salvos em um arquivo `.txt` no formato `Tempo(s) RPM`.
 
 ### 3. Análise no MATLAB
-- Use o script `analise_dados.m` para ler os dados coletados e comparar com:
+- Use o script `Analise_Dados.m` para ler os dados coletados e comparar com:
   - Modelo da função de transferência
   - Resultados das simulações no Simulink
 - Os arquivos `simulink1.mat` e `simulink2.mat` gerados contêm os logs das simulações.
